@@ -20,7 +20,7 @@ class Instances extends Component {
                 <CartesianGrid strokeDasharray="1 "/>
                 <Tooltip/>
                 <Legend />
-                <Line type="monotone" dataKey="Create" stroke="#8884d8" activeDot={{r: 8}}/>
+                <Line type="monotone" dataKey="Create" stroke="#8884d8"/>
                 <Line type="monotone" dataKey="Active" stroke="#b229ab" />
                 <Line type="monotone" dataKey="Billed_Instance_Estimated" stroke="#82ca9d" />
             </LineChart>
