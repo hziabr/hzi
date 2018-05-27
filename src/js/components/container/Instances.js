@@ -13,16 +13,16 @@ class Instances extends Component {
     }
     render() {
         return (
-            <LineChart width={1200} height={300} data={this.state['data']}
-                       margin={{top: 5, right: 30, left: 20, bottom: 5}}>
-                <XAxis dataKey="name"/>
+            <LineChart width={1500} height={300} data={this.state['data']}
+                       margin={{top: 0, right: 0, left: 0, bottom: 0}}>
+                <XAxis dataKey="time"/>
                 <YAxis/>
-                <CartesianGrid strokeDasharray="1 "/>
+                <CartesianGrid vertical={false} stroke="#e1e1e1" strokeDasharray="0"/>
                 <Tooltip/>
-                <Legend />
-                <Line type="monotone" dataKey="Create" stroke="#8884d8"/>
-                <Line type="monotone" dataKey="Active" stroke="#b229ab" />
-                <Line type="monotone" dataKey="Billed_Instance_Estimated" stroke="#82ca9d" />
+                <Legend iconType={"circle"} align={'left'}/>
+                <Line type="monotone" activeDot={false} dot={false} dataKey="Create" stroke="#b229ab"/>
+                <Line type="monotone" activeDot={false} dot={false} dataKey="Active" stroke="#1fbec6"/>
+                <Line type="monotone" activeDot={false} dot={false} dataKey="Billed_Instance_Estimated" stroke="#089141" />
             </LineChart>
         );
     }

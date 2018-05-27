@@ -1,401 +1,562 @@
 [
   {
-    "_id": "5b094f304b321d70c0c7c3a0",
-    "Create": 27,
-    "Active": 24,
-    "Billed_Instance_Estimated": 44,
-    "time": "2018-05-16T07:20:32 -03:00"
-  },
-  {
-    "_id": "5b094f303ba63b1acbcdf6cd",
-    "Create": 42,
-    "Active": 30,
-    "Billed_Instance_Estimated": 9,
-    "time": "2018-05-18T06:09:32 -03:00"
-  },
-  {
-    "_id": "5b094f3049434d47d9e54e75",
-    "Create": 46,
-    "Active": 9,
-    "Billed_Instance_Estimated": 35,
-    "time": "2018-05-15T05:41:40 -03:00"
-  },
-  {
-    "_id": "5b094f301c79520f8c9c6d32",
-    "Create": 53,
-    "Active": 59,
-    "Billed_Instance_Estimated": 33,
-    "time": "2018-05-22T09:12:48 -03:00"
-  },
-  {
-    "_id": "5b094f304288987fa71895f4",
-    "Create": 50,
-    "Active": 60,
-    "Billed_Instance_Estimated": 6,
-    "time": "2018-05-23T01:26:43 -03:00"
-  },
-  {
-    "_id": "5b094f30ef6ca2fcd32e254c",
-    "Create": 40,
-    "Active": 19,
-    "Billed_Instance_Estimated": 35,
-    "time": "2018-05-15T05:09:15 -03:00"
-  },
-  {
-    "_id": "5b094f30f8b4d7931bc8e89b",
-    "Create": 34,
-    "Active": 14,
-    "Billed_Instance_Estimated": 15,
-    "time": "2018-05-19T08:55:54 -03:00"
-  },
-  {
-    "_id": "5b094f309399bd1b605693c8",
-    "Create": 55,
-    "Active": 55,
-    "Billed_Instance_Estimated": 6,
-    "time": "2018-05-22T04:44:13 -03:00"
-  },
-  {
-    "_id": "5b094f300b639836070dc92b",
-    "Create": 42,
-    "Active": 56,
-    "Billed_Instance_Estimated": 36,
-    "time": "2018-05-24T12:58:23 -03:00"
-  },
-  {
-    "_id": "5b094f30c2afc019c1be4ecd",
-    "Create": 24,
-    "Active": 47,
-    "Billed_Instance_Estimated": 50,
-    "time": "2018-05-25T06:28:34 -03:00"
-  },
-  {
-    "_id": "5b094f3076c773b7432d09a0",
-    "Create": 21,
-    "Active": 30,
-    "Billed_Instance_Estimated": 5,
-    "time": "2018-05-24T08:06:32 -03:00"
-  },
-  {
-    "_id": "5b094f306b539b4b6ca02078",
-    "Create": 36,
-    "Active": 21,
-    "Billed_Instance_Estimated": 48,
-    "time": "2018-05-20T04:16:03 -03:00"
-  },
-  {
-    "_id": "5b094f30f7915ec3468edc81",
-    "Create": 30,
-    "Active": 58,
-    "Billed_Instance_Estimated": 4,
-    "time": "2018-05-20T08:26:58 -03:00"
-  },
-  {
-    "_id": "5b094f303d585e71c5ce58c3",
-    "Create": 53,
-    "Active": 13,
-    "Billed_Instance_Estimated": 28,
-    "time": "2018-05-25T03:03:39 -03:00"
-  },
-  {
-    "_id": "5b094f301185f513e8fc6398",
-    "Create": 59,
-    "Active": 5,
-    "Billed_Instance_Estimated": 20,
-    "time": "2018-05-16T04:36:42 -03:00"
-  },
-  {
-    "_id": "5b094f30ca7de9a03be02d6c",
-    "Create": 52,
-    "Active": 45,
-    "Billed_Instance_Estimated": 8,
-    "time": "2018-05-23T09:01:29 -03:00"
-  },
-  {
-    "_id": "5b094f30c919e50b60c79dc8",
-    "Create": 28,
-    "Active": 25,
-    "Billed_Instance_Estimated": 55,
-    "time": "2018-05-21T03:10:46 -03:00"
-  },
-  {
-    "_id": "5b094f30059953a2949fb47c",
-    "Create": 35,
-    "Active": 12,
-    "Billed_Instance_Estimated": 0,
-    "time": "2018-05-23T11:11:44 -03:00"
-  },
-  {
-    "_id": "5b094f30150f9e7539b1f6c5",
-    "Create": 23,
-    "Active": 0,
-    "Billed_Instance_Estimated": 56,
-    "time": "2018-05-19T09:54:29 -03:00"
-  },
-  {
-    "_id": "5b094f30cb95001c32eb778c",
-    "Create": 53,
-    "Active": 28,
-    "Billed_Instance_Estimated": 36,
-    "time": "2018-05-19T06:02:49 -03:00"
-  },
-  {
-    "_id": "5b094f30f1a3893dc53a1184",
-    "Create": 41,
-    "Active": 7,
-    "Billed_Instance_Estimated": 19,
-    "time": "2018-05-19T07:18:02 -03:00"
-  },
-  {
-    "_id": "5b094f30f43f2c6ada5a1dfa",
-    "Create": 37,
-    "Active": 11,
-    "Billed_Instance_Estimated": 32,
-    "time": "2018-05-24T04:57:12 -03:00"
-  },
-  {
-    "_id": "5b094f30ee0aba4ec763ff61",
-    "Create": 29,
-    "Active": 29,
-    "Billed_Instance_Estimated": 36,
-    "time": "2018-05-24T10:06:27 -03:00"
-  },
-  {
-    "_id": "5b094f30393d86eaa70afc96",
-    "Create": 60,
-    "Active": 5,
-    "Billed_Instance_Estimated": 11,
-    "time": "2018-05-20T02:58:40 -03:00"
-  },
-  {
-    "_id": "5b094f309d63f87174478046",
-    "Create": 46,
-    "Active": 18,
-    "Billed_Instance_Estimated": 32,
-    "time": "2018-05-25T09:08:41 -03:00"
-  },
-  {
-    "_id": "5b094f309ed36666f8e6d9e0",
-    "Create": 21,
-    "Active": 56,
-    "Billed_Instance_Estimated": 41,
-    "time": "2018-05-25T04:36:57 -03:00"
-  },
-  {
-    "_id": "5b094f301f54949e83f2e125",
-    "Create": 58,
-    "Active": 50,
-    "Billed_Instance_Estimated": 39,
-    "time": "2018-05-21T08:37:34 -03:00"
-  },
-  {
-    "_id": "5b094f301b4dce4dae853660",
-    "Create": 49,
-    "Active": 9,
-    "Billed_Instance_Estimated": 32,
-    "time": "2018-05-17T07:06:07 -03:00"
-  },
-  {
-    "_id": "5b094f30e76335b556db84de",
-    "Create": 57,
+    "_id": "5b0aa5388a50bd09000fcf28",
+    "Create": 47,
     "Active": 48,
-    "Billed_Instance_Estimated": 10,
-    "time": "2018-05-23T05:37:03 -03:00"
-  },
-  {
-    "_id": "5b094f303db1a892a392494c",
-    "Create": 38,
-    "Active": 45,
-    "Billed_Instance_Estimated": 47,
-    "time": "2018-05-21T09:31:39 -03:00"
-  },
-  {
-    "_id": "5b094f30349caed126ac6437",
-    "Create": 24,
-    "Active": 55,
-    "Billed_Instance_Estimated": 47,
-    "time": "2018-05-18T10:01:10 -03:00"
-  },
-  {
-    "_id": "5b094f305b60fa0caa4bb6b2",
-    "Create": 40,
-    "Active": 15,
-    "Billed_Instance_Estimated": 50,
-    "time": "2018-05-24T08:40:44 -03:00"
-  },
-  {
-    "_id": "5b094f30e0218fad9aefc92f",
-    "Create": 25,
-    "Active": 60,
-    "Billed_Instance_Estimated": 23,
-    "time": "2018-05-25T07:43:36 -03:00"
-  },
-  {
-    "_id": "5b094f309bb929b701a46471",
-    "Create": 41,
-    "Active": 16,
-    "Billed_Instance_Estimated": 31,
-    "time": "2018-05-22T03:01:52 -03:00"
-  },
-  {
-    "_id": "5b094f30692acc2e5ac5d7ef",
-    "Create": 31,
-    "Active": 19,
-    "Billed_Instance_Estimated": 32,
-    "time": "2018-05-20T05:10:18 -03:00"
-  },
-  {
-    "_id": "5b094f30bf025e875f4140ea",
-    "Create": 56,
-    "Active": 45,
-    "Billed_Instance_Estimated": 0,
-    "time": "2018-05-15T10:42:18 -03:00"
-  },
-  {
-    "_id": "5b094f30300daff929bfe09b",
-    "Create": 28,
-    "Active": 51,
     "Billed_Instance_Estimated": 38,
-    "time": "2018-05-19T10:03:27 -03:00"
+    "time": "2018-05-23 07:40"
   },
   {
-    "_id": "5b094f30d2404fb903c5d136",
-    "Create": 42,
-    "Active": 24,
-    "Billed_Instance_Estimated": 23,
-    "time": "2018-05-16T05:20:52 -03:00"
-  },
-  {
-    "_id": "5b094f307495ff103435c1ce",
-    "Create": 50,
-    "Active": 55,
-    "Billed_Instance_Estimated": 19,
-    "time": "2018-05-22T09:35:31 -03:00"
-  },
-  {
-    "_id": "5b094f307dabfdaa8e0474c2",
-    "Create": 28,
-    "Active": 14,
-    "Billed_Instance_Estimated": 59,
-    "time": "2018-05-18T06:47:07 -03:00"
-  },
-  {
-    "_id": "5b094f30f02297837daa5bdd",
-    "Create": 46,
-    "Active": 19,
-    "Billed_Instance_Estimated": 55,
-    "time": "2018-05-16T11:07:22 -03:00"
-  },
-  {
-    "_id": "5b094f30c7a4e2d248f1b8eb",
-    "Create": 60,
-    "Active": 14,
-    "Billed_Instance_Estimated": 55,
-    "time": "2018-05-19T05:40:23 -03:00"
-  },
-  {
-    "_id": "5b094f3043c84da8c08291db",
-    "Create": 34,
-    "Active": 54,
-    "Billed_Instance_Estimated": 54,
-    "time": "2018-05-18T01:53:26 -03:00"
-  },
-  {
-    "_id": "5b094f30df803ad674073f4a",
-    "Create": 44,
-    "Active": 28,
-    "Billed_Instance_Estimated": 56,
-    "time": "2018-05-17T03:06:11 -03:00"
-  },
-  {
-    "_id": "5b094f30a924c0952587b652",
-    "Create": 25,
-    "Active": 3,
-    "Billed_Instance_Estimated": 44,
-    "time": "2018-05-17T06:56:18 -03:00"
-  },
-  {
-    "_id": "5b094f305f48b6adaacb1047",
-    "Create": 56,
-    "Active": 9,
-    "Billed_Instance_Estimated": 2,
-    "time": "2018-05-23T09:07:27 -03:00"
-  },
-  {
-    "_id": "5b094f30331bc0ee42becd92",
-    "Create": 25,
-    "Active": 47,
-    "Billed_Instance_Estimated": 49,
-    "time": "2018-05-25T03:28:45 -03:00"
-  },
-  {
-    "_id": "5b094f302a0b3821e3f1d493",
-    "Create": 22,
-    "Active": 41,
-    "Billed_Instance_Estimated": 37,
-    "time": "2018-05-21T11:04:15 -03:00"
-  },
-  {
-    "_id": "5b094f309a0fd0374e247306",
-    "Create": 40,
-    "Active": 15,
-    "Billed_Instance_Estimated": 25,
-    "time": "2018-05-15T01:42:13 -03:00"
-  },
-  {
-    "_id": "5b094f30d074c9eef7370e5e",
-    "Create": 20,
-    "Active": 15,
-    "Billed_Instance_Estimated": 37,
-    "time": "2018-05-19T11:09:01 -03:00"
-  },
-  {
-    "_id": "5b094f305a73ee16054033db",
+    "_id": "5b0aa538d5f6a2bcb7f03f1a",
     "Create": 27,
     "Active": 57,
-    "Billed_Instance_Estimated": 28,
-    "time": "2018-05-15T02:35:26 -03:00"
+    "Billed_Instance_Estimated": 7,
+    "time": "2018-05-22 07:17"
   },
   {
-    "_id": "5b094f30c7faf48bc5b9dd5d",
-    "Create": 47,
-    "Active": 34,
-    "Billed_Instance_Estimated": 51,
-    "time": "2018-05-19T11:54:52 -03:00"
-  },
-  {
-    "_id": "5b094f30eb050a384d2520a6",
-    "Create": 59,
-    "Active": 46,
-    "Billed_Instance_Estimated": 46,
-    "time": "2018-05-19T03:09:07 -03:00"
-  },
-  {
-    "_id": "5b094f309f90b23ba468e8d4",
-    "Create": 31,
-    "Active": 13,
-    "Billed_Instance_Estimated": 10,
-    "time": "2018-05-23T03:19:05 -03:00"
-  },
-  {
-    "_id": "5b094f30f3218a31414d21c7",
-    "Create": 33,
-    "Active": 55,
-    "Billed_Instance_Estimated": 45,
-    "time": "2018-05-19T07:21:31 -03:00"
-  },
-  {
-    "_id": "5b094f3030a9b3359f94a844",
-    "Create": 31,
-    "Active": 1,
-    "Billed_Instance_Estimated": 3,
-    "time": "2018-05-25T12:37:33 -03:00"
-  },
-  {
-    "_id": "5b094f3064cc5db018f4d7c9",
+    "_id": "5b0aa538285c9d82f699760a",
     "Create": 56,
+    "Active": 17,
+    "Billed_Instance_Estimated": 50,
+    "time": "2018-05-25 09:59"
+  },
+  {
+    "_id": "5b0aa5382e8209951d309813",
+    "Create": 22,
+    "Active": 55,
+    "Billed_Instance_Estimated": 25,
+    "time": "2018-05-18 01:21"
+  },
+  {
+    "_id": "5b0aa53857cd375d7c3902a8",
+    "Create": 52,
+    "Active": 40,
+    "Billed_Instance_Estimated": 2,
+    "time": "2018-05-20 06:40"
+  },
+  {
+    "_id": "5b0aa538030815bdb0e7e74b",
+    "Create": 48,
+    "Active": 3,
+    "Billed_Instance_Estimated": 0,
+    "time": "2018-05-15 10:02"
+  },
+  {
+    "_id": "5b0aa5380bbe45174cc44358",
+    "Create": 51,
+    "Active": 57,
+    "Billed_Instance_Estimated": 42,
+    "time": "2018-05-23 05:21"
+  },
+  {
+    "_id": "5b0aa5380f090a0fdd203d4c",
+    "Create": 50,
+    "Active": 52,
+    "Billed_Instance_Estimated": 3,
+    "time": "2018-05-23 02:23"
+  },
+  {
+    "_id": "5b0aa53852a6c81863f0ae98",
+    "Create": 45,
+    "Active": 48,
+    "Billed_Instance_Estimated": 57,
+    "time": "2018-05-16 02:44"
+  },
+  {
+    "_id": "5b0aa5381cef8904a4409a8e",
+    "Create": 22,
+    "Active": 37,
+    "Billed_Instance_Estimated": 57,
+    "time": "2018-05-24 10:31"
+  },
+  {
+    "_id": "5b0aa538ec3a76259cc9f0e8",
+    "Create": 25,
+    "Active": 58,
+    "Billed_Instance_Estimated": 50,
+    "time": "2018-05-20 10:40"
+  },
+  {
+    "_id": "5b0aa538b20a82f615f39439",
+    "Create": 47,
+    "Active": 47,
+    "Billed_Instance_Estimated": 51,
+    "time": "2018-05-17 10:15"
+  },
+  {
+    "_id": "5b0aa53817d86e115b1a29ae",
+    "Create": 50,
+    "Active": 5,
+    "Billed_Instance_Estimated": 56,
+    "time": "2018-05-19 06:38"
+  },
+  {
+    "_id": "5b0aa538c494def9f4189b5d",
+    "Create": 50,
+    "Active": 31,
+    "Billed_Instance_Estimated": 8,
+    "time": "2018-05-21 04:32"
+  },
+  {
+    "_id": "5b0aa538d6b8d6a68a6ef9d0",
+    "Create": 27,
+    "Active": 9,
+    "Billed_Instance_Estimated": 60,
+    "time": "2018-05-25 03:13"
+  },
+  {
+    "_id": "5b0aa538948fdbaa4c861b34",
+    "Create": 24,
+    "Active": 56,
+    "Billed_Instance_Estimated": 45,
+    "time": "2018-05-22 05:08"
+  },
+  {
+    "_id": "5b0aa5388e9dfbb1dd5f7af2",
+    "Create": 23,
+    "Active": 33,
+    "Billed_Instance_Estimated": 60,
+    "time": "2018-05-23 04:38"
+  },
+  {
+    "_id": "5b0aa5382f73991ba24ca5a2",
+    "Create": 53,
+    "Active": 56,
+    "Billed_Instance_Estimated": 37,
+    "time": "2018-05-15 08:07"
+  },
+  {
+    "_id": "5b0aa53839282d960a441238",
+    "Create": 56,
+    "Active": 4,
+    "Billed_Instance_Estimated": 9,
+    "time": "2018-05-16 10:16"
+  },
+  {
+    "_id": "5b0aa538cf92fd7c2d6a4a67",
+    "Create": 32,
+    "Active": 10,
+    "Billed_Instance_Estimated": 0,
+    "time": "2018-05-22 04:54"
+  },
+  {
+    "_id": "5b0aa53837bd9267bea4ffcc",
+    "Create": 56,
+    "Active": 18,
+    "Billed_Instance_Estimated": 60,
+    "time": "2018-05-17 08:52"
+  },
+  {
+    "_id": "5b0aa5387041e172ad38da01",
+    "Create": 25,
+    "Active": 5,
+    "Billed_Instance_Estimated": 47,
+    "time": "2018-05-22 12:14"
+  },
+  {
+    "_id": "5b0aa538f220bf0b20cafbd8",
+    "Create": 42,
+    "Active": 14,
+    "Billed_Instance_Estimated": 34,
+    "time": "2018-05-16 05:41"
+  },
+  {
+    "_id": "5b0aa53857b0e6f5b6e7bc96",
+    "Create": 41,
+    "Active": 0,
+    "Billed_Instance_Estimated": 33,
+    "time": "2018-05-16 07:37"
+  },
+  {
+    "_id": "5b0aa538362075aa859d01b3",
+    "Create": 23,
+    "Active": 10,
+    "Billed_Instance_Estimated": 50,
+    "time": "2018-05-18 02:04"
+  },
+  {
+    "_id": "5b0aa538e56f9a336c1fe20b",
+    "Create": 21,
+    "Active": 7,
+    "Billed_Instance_Estimated": 18,
+    "time": "2018-05-19 02:38"
+  },
+  {
+    "_id": "5b0aa5382d904faa0dbecd46",
+    "Create": 29,
+    "Active": 43,
+    "Billed_Instance_Estimated": 3,
+    "time": "2018-05-24 05:45"
+  },
+  {
+    "_id": "5b0aa53885e9ffc94d0f32f3",
+    "Create": 28,
+    "Active": 41,
+    "Billed_Instance_Estimated": 19,
+    "time": "2018-05-17 11:29"
+  },
+  {
+    "_id": "5b0aa538c8fb5b3187f38625",
+    "Create": 23,
+    "Active": 12,
+    "Billed_Instance_Estimated": 59,
+    "time": "2018-05-16 03:11"
+  },
+  {
+    "_id": "5b0aa5385c9ea60eea365a7c",
+    "Create": 46,
+    "Active": 20,
+    "Billed_Instance_Estimated": 37,
+    "time": "2018-05-18 05:11"
+  },
+  {
+    "_id": "5b0aa53870268e1648c3ef36",
+    "Create": 38,
+    "Active": 43,
+    "Billed_Instance_Estimated": 24,
+    "time": "2018-05-24 05:30"
+  },
+  {
+    "_id": "5b0aa538361bbccb5f248a95",
+    "Create": 40,
+    "Active": 23,
+    "Billed_Instance_Estimated": 43,
+    "time": "2018-05-17 10:08"
+  },
+  {
+    "_id": "5b0aa538b51a0d26115bec96",
+    "Create": 37,
+    "Active": 33,
+    "Billed_Instance_Estimated": 39,
+    "time": "2018-05-19 04:36"
+  },
+  {
+    "_id": "5b0aa53861391178e8642938",
+    "Create": 46,
+    "Active": 51,
+    "Billed_Instance_Estimated": 47,
+    "time": "2018-05-17 03:54"
+  },
+  {
+    "_id": "5b0aa53820a81b3c950dbe3e",
+    "Create": 45,
+    "Active": 31,
+    "Billed_Instance_Estimated": 4,
+    "time": "2018-05-17 06:18"
+  },
+  {
+    "_id": "5b0aa53894a51ad940f554ad",
+    "Create": 59,
+    "Active": 47,
+    "Billed_Instance_Estimated": 33,
+    "time": "2018-05-15 12:13"
+  },
+  {
+    "_id": "5b0aa5385b9d817280d3b9a8",
+    "Create": 40,
+    "Active": 52,
+    "Billed_Instance_Estimated": 34,
+    "time": "2018-05-18 05:08"
+  },
+  {
+    "_id": "5b0aa5384534fd8331c4b595",
+    "Create": 60,
+    "Active": 42,
+    "Billed_Instance_Estimated": 45,
+    "time": "2018-05-23 03:42"
+  },
+  {
+    "_id": "5b0aa538c3c717c44ab627b9",
+    "Create": 43,
+    "Active": 31,
+    "Billed_Instance_Estimated": 30,
+    "time": "2018-05-17 05:25"
+  },
+  {
+    "_id": "5b0aa53815f4c7c5e52791f0",
+    "Create": 20,
     "Active": 13,
+    "Billed_Instance_Estimated": 8,
+    "time": "2018-05-22 05:19"
+  },
+  {
+    "_id": "5b0aa5383554ec029c76fbde",
+    "Create": 29,
+    "Active": 34,
     "Billed_Instance_Estimated": 17,
-    "time": "2018-05-16T12:10:10 -03:00"
+    "time": "2018-05-24 11:38"
+  },
+  {
+    "_id": "5b0aa5385517296d68049867",
+    "Create": 22,
+    "Active": 27,
+    "Billed_Instance_Estimated": 2,
+    "time": "2018-05-17 12:31"
+  },
+  {
+    "_id": "5b0aa538336793624741cbb5",
+    "Create": 39,
+    "Active": 13,
+    "Billed_Instance_Estimated": 45,
+    "time": "2018-05-18 06:57"
+  },
+  {
+    "_id": "5b0aa5382d24be96efa61435",
+    "Create": 39,
+    "Active": 55,
+    "Billed_Instance_Estimated": 29,
+    "time": "2018-05-22 03:34"
+  },
+  {
+    "_id": "5b0aa53813247c75cbad6964",
+    "Create": 44,
+    "Active": 30,
+    "Billed_Instance_Estimated": 48,
+    "time": "2018-05-19 01:31"
+  },
+  {
+    "_id": "5b0aa538d35d32f104ff5b89",
+    "Create": 39,
+    "Active": 31,
+    "Billed_Instance_Estimated": 16,
+    "time": "2018-05-24 12:11"
+  },
+  {
+    "_id": "5b0aa538a79e3e26d96ec447",
+    "Create": 32,
+    "Active": 21,
+    "Billed_Instance_Estimated": 17,
+    "time": "2018-05-19 03:14"
+  },
+  {
+    "_id": "5b0aa53888519f46b61108fd",
+    "Create": 26,
+    "Active": 0,
+    "Billed_Instance_Estimated": 20,
+    "time": "2018-05-15 10:12"
+  },
+  {
+    "_id": "5b0aa53830fc3b49a381a511",
+    "Create": 44,
+    "Active": 11,
+    "Billed_Instance_Estimated": 39,
+    "time": "2018-05-18 05:33"
+  },
+  {
+    "_id": "5b0aa5385de34a5cc80f6222",
+    "Create": 57,
+    "Active": 54,
+    "Billed_Instance_Estimated": 8,
+    "time": "2018-05-24 08:24"
+  },
+  {
+    "_id": "5b0aa538b738c76575daeb5e",
+    "Create": 24,
+    "Active": 2,
+    "Billed_Instance_Estimated": 27,
+    "time": "2018-05-24 10:14"
+  },
+  {
+    "_id": "5b0aa538a93628c7b3348b20",
+    "Create": 47,
+    "Active": 33,
+    "Billed_Instance_Estimated": 29,
+    "time": "2018-05-19 01:44"
+  },
+  {
+    "_id": "5b0aa538e32d21d09e14b738",
+    "Create": 32,
+    "Active": 4,
+    "Billed_Instance_Estimated": 39,
+    "time": "2018-05-18 12:33"
+  },
+  {
+    "_id": "5b0aa5382be5fc073f4f91bb",
+    "Create": 59,
+    "Active": 21,
+    "Billed_Instance_Estimated": 20,
+    "time": "2018-05-23 05:26"
+  },
+  {
+    "_id": "5b0aa5382d02865925963def",
+    "Create": 32,
+    "Active": 37,
+    "Billed_Instance_Estimated": 34,
+    "time": "2018-05-22 01:58"
+  },
+  {
+    "_id": "5b0aa5386cfa8ea4e65f4898",
+    "Create": 30,
+    "Active": 53,
+    "Billed_Instance_Estimated": 42,
+    "time": "2018-05-24 09:06"
+  },
+  {
+    "_id": "5b0aa538e1fdb5cf638e31c7",
+    "Create": 47,
+    "Active": 27,
+    "Billed_Instance_Estimated": 8,
+    "time": "2018-05-16 11:05"
+  },
+  {
+    "_id": "5b0aa538118f0d95c72f5699",
+    "Create": 23,
+    "Active": 40,
+    "Billed_Instance_Estimated": 31,
+    "time": "2018-05-21 09:41"
+  },
+  {
+    "_id": "5b0aa538622d26b264434fbf",
+    "Create": 55,
+    "Active": 60,
+    "Billed_Instance_Estimated": 52,
+    "time": "2018-05-24 04:02"
+  },
+  {
+    "_id": "5b0aa538267a32a946ddf5d6",
+    "Create": 57,
+    "Active": 6,
+    "Billed_Instance_Estimated": 52,
+    "time": "2018-05-24 02:28"
+  },
+  {
+    "_id": "5b0aa5387f66b3af9951c649",
+    "Create": 44,
+    "Active": 34,
+    "Billed_Instance_Estimated": 3,
+    "time": "2018-05-21 12:04"
+  },
+  {
+    "_id": "5b0aa5388ea58cd54d8cd87d",
+    "Create": 45,
+    "Active": 4,
+    "Billed_Instance_Estimated": 0,
+    "time": "2018-05-24 06:43"
+  },
+  {
+    "_id": "5b0aa5389e4f2c068b14d6c0",
+    "Create": 21,
+    "Active": 28,
+    "Billed_Instance_Estimated": 60,
+    "time": "2018-05-18 10:37"
+  },
+  {
+    "_id": "5b0aa538a6eec3558a8a1abc",
+    "Create": 21,
+    "Active": 11,
+    "Billed_Instance_Estimated": 40,
+    "time": "2018-05-21 03:04"
+  },
+  {
+    "_id": "5b0aa538561a40cbcd0aa077",
+    "Create": 29,
+    "Active": 31,
+    "Billed_Instance_Estimated": 40,
+    "time": "2018-05-18 02:11"
+  },
+  {
+    "_id": "5b0aa53860291e0cd08c5095",
+    "Create": 40,
+    "Active": 53,
+    "Billed_Instance_Estimated": 48,
+    "time": "2018-05-22 12:17"
+  },
+  {
+    "_id": "5b0aa5381df8df0cbdf3753c",
+    "Create": 23,
+    "Active": 25,
+    "Billed_Instance_Estimated": 46,
+    "time": "2018-05-24 09:12"
+  },
+  {
+    "_id": "5b0aa5384482876f129fa7cc",
+    "Create": 55,
+    "Active": 1,
+    "Billed_Instance_Estimated": 55,
+    "time": "2018-05-22 03:52"
+  },
+  {
+    "_id": "5b0aa5380ef1610c2e0ea4a5",
+    "Create": 25,
+    "Active": 38,
+    "Billed_Instance_Estimated": 47,
+    "time": "2018-05-19 05:40"
+  },
+  {
+    "_id": "5b0aa5380999721a73738383",
+    "Create": 21,
+    "Active": 19,
+    "Billed_Instance_Estimated": 41,
+    "time": "2018-05-16 07:06"
+  },
+  {
+    "_id": "5b0aa5382a9a5270df929a35",
+    "Create": 28,
+    "Active": 58,
+    "Billed_Instance_Estimated": 47,
+    "time": "2018-05-20 06:40"
+  },
+  {
+    "_id": "5b0aa53800a4e7ff2a8a8e2f",
+    "Create": 44,
+    "Active": 39,
+    "Billed_Instance_Estimated": 22,
+    "time": "2018-05-25 11:12"
+  },
+  {
+    "_id": "5b0aa5389d25738043f62a36",
+    "Create": 54,
+    "Active": 38,
+    "Billed_Instance_Estimated": 56,
+    "time": "2018-05-22 10:20"
+  },
+  {
+    "_id": "5b0aa5388ca1ce8220f2606d",
+    "Create": 27,
+    "Active": 4,
+    "Billed_Instance_Estimated": 7,
+    "time": "2018-05-22 10:13"
+  },
+  {
+    "_id": "5b0aa53882db720c27ed0ee1",
+    "Create": 56,
+    "Active": 40,
+    "Billed_Instance_Estimated": 11,
+    "time": "2018-05-16 05:41"
+  },
+  {
+    "_id": "5b0aa538971d610a90edc30a",
+    "Create": 39,
+    "Active": 32,
+    "Billed_Instance_Estimated": 18,
+    "time": "2018-05-18 12:37"
+  },
+  {
+    "_id": "5b0aa5389dee873653ab41b3",
+    "Create": 23,
+    "Active": 2,
+    "Billed_Instance_Estimated": 20,
+    "time": "2018-05-21 04:07"
+  },
+  {
+    "_id": "5b0aa538947144c41298934a",
+    "Create": 35,
+    "Active": 56,
+    "Billed_Instance_Estimated": 24,
+    "time": "2018-05-19 08:38"
+  },
+  {
+    "_id": "5b0aa538adb98eeebdf8365d",
+    "Create": 52,
+    "Active": 19,
+    "Billed_Instance_Estimated": 8,
+    "time": "2018-05-25 09:17"
+  },
+  {
+    "_id": "5b0aa5382f145c4b5129fccb",
+    "Create": 58,
+    "Active": 57,
+    "Billed_Instance_Estimated": 33,
+    "time": "2018-05-15 04:54"
   }
 ]
