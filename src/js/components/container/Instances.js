@@ -15,7 +15,7 @@ class Instances extends Component {
         return (
             <LineChart width={1200} height={300} data={this.state['data']}
                        margin={{top: 0, right: 0, left: 0, bottom: 0}}>
-                <XAxis dataKey="name"/>
+                <XAxis dataKey="time"/>
                 <YAxis/>
                 <CartesianGrid vertical={false} stroke="#e1e1e1" strokeDasharray="0"/>
                 <Tooltip/>
