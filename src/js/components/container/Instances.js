@@ -13,7 +13,7 @@ class Instances extends Component {
     }
     render() {
         return (
-            <LineChart width={1200} height={300} data={this.state['data']}
+            <LineChart width={1500} height={300} data={this.state['data']}
                        margin={{top: 0, right: 0, left: 0, bottom: 0}}>
                 <XAxis dataKey="time"/>
                 <YAxis/>
