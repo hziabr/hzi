@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+bool locale_set_default ( string $locale )
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
