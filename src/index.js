@@ -1,1 +1,0 @@
-import Instances from "./js/components/container/Instances";
